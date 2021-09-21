@@ -7,3 +7,6 @@ just clone or download this project
 download and install any version of python 3.x
 open cmd or powershell in project directory 
 run this command "python fissionreaction.py"
+
+https://github.com/Sadek-Hossain-Nishat/fissionreaction/issues/new
+Image Before Fission Reaction
